@@ -78,13 +78,11 @@
 .header-top {
     width: 1200px;
     padding-bottom: 20px;
-    border: 1px solid white;
     margin: 0 auto;
 }
 
 .header-logo {
     width: 330px;
-    border: 1px solid white;
     float: left;
     color: white;
     font-family: 'Playfair Display', serif;
@@ -128,7 +126,6 @@
 
 .header-links {
     width: 600px;
-    border: 1px solid white;
     float: right;
     margin-top: 32px;
 }
@@ -175,7 +172,6 @@
 .header-content {
     width: 600px;
     height: 168px;
-    border: 1px solid white;
     margin-left: auto;
     margin-right: auto;
     margin-top: 188px;
@@ -229,13 +225,11 @@
     width: 1920px;
     height: 468px;
     background-color: white;
-    border: 1px solid black;
 }
 
 .content-heading-top {
     width: 865px;
     height: 135px;
-    border: 1px solid black;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -298,7 +292,6 @@
 .content-heading-bottom {
     width: 1201px;
     height: 257px;
-    border: 1px solid black;
     margin-right: auto;
     margin-left: auto;
     margin-top: 43px;
@@ -307,7 +300,6 @@
 .content-heading-bottom-element {
     width: 255px;
     height: 255px;
-    border: 1px solid black;
     float: left;
 
 }
@@ -367,7 +359,6 @@
 .content-heading-bottom-element-text {
     width: 252px;
     height: 157px;
-    border: 1px solid black;
 }
 
 .content-heading-bottom-element-link {
@@ -441,7 +432,6 @@
 
 .projects-links {
     width: 800px;
-    border: 1px solid black;
     margin-right: auto;
     margin-left: auto;
     margin-top: 32px;
@@ -555,7 +545,6 @@
 
 .cnt-gl-lnk {
     position: relative;
-    border: 1px solid black;
     width: 253px;
     height: 158px;
     background-color: hsla(0,100%,0%,0.8);
@@ -616,7 +605,6 @@
     margin-right: 25px;
     width: 80px;
     height: 40px;
-    border: 1px solid white;
     float: right;
     overflow: visible;
 }
@@ -624,7 +612,6 @@
 .cnt-icons-links {
     width: 30px;
     height: 30px;
-    border: 1px solid white;
     display: inline-block;
     text-align: center;
 }
@@ -675,7 +662,6 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-    border: 1px solid black;
     text-align: center;
 
 }
@@ -713,7 +699,6 @@
 .content-logos {
     width: 1920px;
     height: 150px;
-    border: 1px solid black;
     vertical-align: middle;
 }
 
@@ -723,14 +708,12 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 60px;
-    border: 1px solid black;
 }
 .content-logos-container a {
     display: inline-block;
     line-height: 28px;
     width: 128px;
     height: 28px;
-    border: 1px solid black;
     float: left;
     -webkit-transition: all 0.5s ease 0s;
     -moz-transition: all 0.5s ease 0s;
@@ -793,7 +776,6 @@
 .content-heading-top-2 {
     width: 865px;
     height: 135px;
-    border: 1px solid black;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -849,7 +831,6 @@
 .content-avatar {
     width: 100px;
     height: 100px;
-    border: 1px solid white;
     background: url("images/avatar.png");
     margin-left: auto;
     margin-right: auto;
@@ -859,7 +840,6 @@
     width: 1050px;
     height: 65px;
     margin-top: 30px;
-    border: 1px solid white;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -885,7 +865,6 @@
     width: 1050px;
     height: 65px;
     margin-top: 22px;
-    border: 1px solid white;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -972,7 +951,6 @@
 .content-article-inner {
     width: 210px;
     height: 210px;
-    border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
@@ -1026,7 +1004,6 @@
 .footer-txt-lnk {
     width: 1120px;
     height: 52px;
-    border: 1px solid white;
     margin-left: auto;
     margin-right: auto;
 }
@@ -1075,7 +1052,6 @@
 
 .footer-logo {
     width: 330px;
-    border: 1px solid white;
     color: white;
     font-family: 'Playfair Display', serif;
     font-size: 25px;
@@ -1108,7 +1084,6 @@
     height: 80px;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid white;
     margin-top: 10px;
 }
 
